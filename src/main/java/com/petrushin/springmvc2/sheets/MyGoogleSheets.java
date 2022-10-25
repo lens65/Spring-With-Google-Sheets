@@ -25,7 +25,7 @@ import java.util.List;
 
 @Component
 public class MyGoogleSheets {
-    private final String APPLICATION_NAME = "HEARTBot";
+    private final String APPLICATION_NAME = "Sheets";
     private final JsonFactory JSON_FACTORY = GsonFactory.getDefaultInstance();
     private final String TOKENS_DIRECTORY_PATH = "tokens";
 
